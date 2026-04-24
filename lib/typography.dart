@@ -1,5 +1,5 @@
-import 'dart:ui';
+import 'package:flutter/material.dart';
 
 class AppTypography {
-  static get title => TextStyle(fontFamily: 'Inter', fontWeight: FontWeight.w500, fontSize: 22);
+  static TextStyle? get title => TextStyle(fontFamily: 'Inter', fontWeight: FontWeight.w500, fontSize: 22);
 }
