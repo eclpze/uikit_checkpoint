@@ -1,3 +1,3 @@
 library uikit;
 
-export '';
+export 'typography.dart';
